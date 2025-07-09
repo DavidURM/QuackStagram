@@ -1,0 +1,490 @@
+
+<!------------- A copy of the commits for this project, the project was worked on uni gitlab -----------!>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>BCS1510:main commits</title>
+<link href="https://gitlab.maastrichtuniversity.nl/=/bcs1510/-/commits/main?feed_token=glft-2dbe6a53a05b7b02feb49928c9853c739b41c781dec3451232ea2a879424ca66-838&amp;format=atom" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.maastrichtuniversity.nl/=/bcs1510/-/commits/main" rel="alternate" type="text/html"/>
+<id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commits/main</id>
+<updated>2024-05-26T23:52:08+02:00</updated>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/b00a2c94d9fea686926e1de0cec865bc6ff5edd0</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/b00a2c94d9fea686926e1de0cec865bc6ff5edd0"/>
+  <title>final push 20/28 da am terminat bagamias pula</title>
+  <updated>2024-05-26T23:52:08+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/2d23bcca546f9435b6d29ab4bcc0e0c19975cbff</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/2d23bcca546f9435b6d29ab4bcc0e0c19975cbff"/>
+  <title>final push 20/28 da am terminat bagamias pula</title>
+  <updated>2024-05-26T04:34:50+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/0a6479bace39dce709a76146abbab26fc447b1c0</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/0a6479bace39dce709a76146abbab26fc447b1c0"/>
+  <title>finished to do</title>
+  <updated>2024-05-26T04:26:18+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/e9497de8d489717b25bf4c76507ff83ee3b342a3</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/e9497de8d489717b25bf4c76507ff83ee3b342a3"/>
+  <title>finished to do</title>
+  <updated>2024-05-26T04:24:11+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/558f4431df5161d4a68b15363ef892b3ca49a184</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/558f4431df5161d4a68b15363ef892b3ca49a184"/>
+  <title>finished to do</title>
+  <updated>2024-05-26T04:20:03+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/4582414629e79c86c7f3085f00f4e66bdb8839b9</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/4582414629e79c86c7f3085f00f4e66bdb8839b9"/>
+  <title>finished to do</title>
+  <updated>2024-05-26T04:19:50+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/9600d8614968fba3dacc33838e7ca8c33b68d83f</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/9600d8614968fba3dacc33838e7ca8c33b68d83f"/>
+  <title>finished to do</title>
+  <updated>2024-05-26T04:18:25+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/496ee0b1b47057270c319b60d4585c1030794e68</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/496ee0b1b47057270c319b60d4585c1030794e68"/>
+  <title>finished to do</title>
+  <updated>2024-05-26T04:17:07+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/9b8853534875a02cc8fdc1f9cf4babf2535cf2f1</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/9b8853534875a02cc8fdc1f9cf4babf2535cf2f1"/>
+  <title>login from text file</title>
+  <updated>2024-05-26T03:50:58+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/a0ec75dad6cc3a56855f8a498b64b6e995d155c7</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/a0ec75dad6cc3a56855f8a498b64b6e995d155c7"/>
+  <title>login from text file</title>
+  <updated>2024-05-26T03:47:39+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/47340788e67fc0ca91d3ee56e89bfb8c96a096d5</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/47340788e67fc0ca91d3ee56e89bfb8c96a096d5"/>
+  <title>report added @TODO README</title>
+  <updated>2024-05-26T03:26:37+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/2af505bc149724ac7a25d36968af2ab7fa68d230</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/2af505bc149724ac7a25d36968af2ab7fa68d230"/>
+  <title>analysis done!!!!!</title>
+  <updated>2024-05-29T02:43:08+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/42afd1cd72addc75c73937219a90df4bed149184</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/42afd1cd72addc75c73937219a90df4bed149184"/>
+  <title>analysis done!!!!!</title>
+  <updated>2024-05-29T02:42:51+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/4278f8cac14e1f9023e3c19f589ea5481fb3669d</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/4278f8cac14e1f9023e3c19f589ea5481fb3669d"/>
+  <title>fixed botted account view</title>
+  <updated>2024-05-25T18:02:52+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/1bc4aae50ff70062c0cef0d0f9f2b966cfc40d3b</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/1bc4aae50ff70062c0cef0d0f9f2b966cfc40d3b"/>
+  <title>updated sql file for trigger</title>
+  <updated>2024-05-25T17:51:49+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/358fa65e7bbd9f3a325a512ad098bb484e7afbd8</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/358fa65e7bbd9f3a325a512ad098bb484e7afbd8"/>
+  <title>fixed follow insert trigger</title>
+  <updated>2024-05-25T17:50:23+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/664e2e440794615cdf22d9cd425f8cc5a96b165e</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/664e2e440794615cdf22d9cd425f8cc5a96b165e"/>
+  <title>integrate error handling</title>
+  <updated>2024-05-25T02:31:43+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/5c4f19ea4ba656a7956bc238ec0c36e79ea7bb1c</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/5c4f19ea4ba656a7956bc238ec0c36e79ea7bb1c"/>
+  <title>added trigger for following</title>
+  <updated>2024-05-25T02:26:14+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/def182a78a7753e07fddea58ccdb8d5a2aa603a7</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/def182a78a7753e07fddea58ccdb8d5a2aa603a7"/>
+  <title>added trigger for following</title>
+  <updated>2024-05-25T02:24:25+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/93eacdbea5411878ac19cda9a150997d9e2342d2</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/93eacdbea5411878ac19cda9a150997d9e2342d2"/>
+  <title>added trigger for following</title>
+  <updated>2024-05-25T02:22:29+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/a6bcf35c0a5e459dbab18185738a8bdf962948d0</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/a6bcf35c0a5e459dbab18185738a8bdf962948d0"/>
+  <title>final database version with views</title>
+  <updated>2024-05-23T23:00:08+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/482805775efcbdd7ebe341760c858be3cf36be68</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/482805775efcbdd7ebe341760c858be3cf36be68"/>
+  <title>dataabse donreeee</title>
+  <updated>2024-05-23T22:26:48+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/1d0e05ab879a68766a222453f7359b7980f1cecf</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/1d0e05ab879a68766a222453f7359b7980f1cecf"/>
+  <title>dataabse donreeee</title>
+  <updated>2024-05-23T22:26:34+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/f709cd4a08c9854795b5d3e280b3a1d07a62500a</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/f709cd4a08c9854795b5d3e280b3a1d07a62500a"/>
+  <title>Added trigger for handle likes, no longer duplicate likes</title>
+  <updated>2024-05-23T18:48:50+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/441cf5f1d712118b90ece21927ee4c141eef5c84</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/441cf5f1d712118b90ece21927ee4c141eef5c84"/>
+  <title>done queries</title>
+  <updated>2024-05-23T18:11:37+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/ba57d1876585333361d3e1dd5b334b8174ea17bd</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/ba57d1876585333361d3e1dd5b334b8174ea17bd"/>
+  <title>done queries</title>
+  <updated>2024-05-23T18:11:24+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/fcece55fe71efa4428c59dc1d1e86ce090b508c6</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/fcece55fe71efa4428c59dc1d1e86ce090b508c6"/>
+  <title>16/20</title>
+  <updated>2024-05-23T17:48:16+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/117871b5480fc3f57b0c94c543f0e20f6145a538</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/117871b5480fc3f57b0c94c543f0e20f6145a538"/>
+  <title>16/20</title>
+  <updated>2024-05-23T17:45:04+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/591e4ca920dda127b1b9e8b688ab2001d8dd3e76</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/591e4ca920dda127b1b9e8b688ab2001d8dd3e76"/>
+  <title>8/20queries</title>
+  <updated>2024-05-23T14:12:17+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/12318cd938b8610c009d1484e4fa8ebb4b9c8f65</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/12318cd938b8610c009d1484e4fa8ebb4b9c8f65"/>
+  <title>8/20queries</title>
+  <updated>2024-05-22T18:16:56+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/14c6dda915356e441e1d505c8882d723b9b3e747</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/14c6dda915356e441e1d505c8882d723b9b3e747"/>
+  <title>8/20queries</title>
+  <updated>2024-05-22T18:15:06+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/a2b1166cb46ae146b031013c6a001720c8efc6ca</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/a2b1166cb46ae146b031013c6a001720c8efc6ca"/>
+  <title>UploadImageUI fixed</title>
+  <updated>2024-05-22T18:14:40+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/7ff965d5343272b7f4ef0718e6aa60e455f374de</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/7ff965d5343272b7f4ef0718e6aa60e455f374de"/>
+  <title>UploadImageUI fixed</title>
+  <updated>2024-05-22T17:45:50+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/fcd3eb29bfa7d80a7a59612584b00556f6c27348</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/fcd3eb29bfa7d80a7a59612584b00556f6c27348"/>
+  <title>UploadImageUI fixed</title>
+  <updated>2024-05-22T16:01:52+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/71d67b8fce6a0d2ee9b97544dc0297cd121903cc</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/71d67b8fce6a0d2ee9b97544dc0297cd121903cc"/>
+  <title>UploadImageUI removed redundant functions</title>
+  <updated>2024-05-22T15:49:20+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/32232258f453835841a68434552bc48329709bef</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/32232258f453835841a68434552bc48329709bef"/>
+  <title>Implemented list instead of int[] for user ID out of bounds</title>
+  <updated>2024-05-22T15:16:53+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/fb77ffe0b9e0fd4cb40d38b6d5bb1a44f975bd1f</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/fb77ffe0b9e0fd4cb40d38b6d5bb1a44f975bd1f"/>
+  <title>Implemented list instead of int[] for user ID out of bounds</title>
+  <updated>2024-05-22T15:16:40+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/9512ffdf4da8700ee82f5fc2319d17f0b9ce5e5c</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/9512ffdf4da8700ee82f5fc2319d17f0b9ce5e5c"/>
+  <title>cleanup fixed logic in NotificationsUI</title>
+  <updated>2024-05-22T15:02:51+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/826ead143220ae6100dd0b3480727220330f5afc</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/826ead143220ae6100dd0b3480727220330f5afc"/>
+  <title>general sout statements cleanup</title>
+  <updated>2024-05-22T14:55:12+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+<entry>
+  <id>https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/b98334a676036811c21d209a15ef148ea235b282</id>
+  <link href="https://gitlab.maastrichtuniversity.nl//bcs1510/-/commit/b98334a676036811c21d209a15ef148ea235b282"/>
+  <title>ITS OVER, GO HOME</title>
+  <updated>2024-05-22T14:44:41+02:00</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4521819b53ececf23e388bd7d43c0fb7e65c54e4e94d45d647cbd4a35e31270e?s=80&amp;d=identicon"/>
+  <author>
+    <name>David</name>
+    
+  </author>
+  <summary type="html"></summary>
+</entry>
+</feed>
