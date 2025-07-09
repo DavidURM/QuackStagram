@@ -41,7 +41,7 @@
           <tns-profile value="" />
           <type value="USER_PASSWORD" />
           <user value="root" />
-          <deprecated-pwd value="RGF2aWQxMjMyMS4vaWFqQTI=" />
+          <deprecated-pwd value="----" />
         </database>
         <properties>
           <auto-commit value="false" />
